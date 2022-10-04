@@ -1,1 +1,1 @@
-# FlexyCoin-CryptocurrencyApp
+# FlexyCoin - CryptocurrencyApp
