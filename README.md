@@ -3,7 +3,7 @@
 
 ## The source code will Publish soon...
 
-## App Preview Light Theme:
+## App Preview - Light Theme:
 <div class="row">
   <div class="column">
    <img src="https://user-images.githubusercontent.com/91388754/205320815-ad0619a6-6150-4d8c-9862-96c28fa235de.jpg" height="400" />
