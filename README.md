@@ -1,7 +1,114 @@
 # FlexyCoin - Cryptocurrency App Using Flutter 
 ![Untitled-1](https://user-images.githubusercontent.com/91388754/205259298-9d2c2168-477a-4b7f-a987-7b29562c8455.png)
 
-## The source code will Publish soon...
+## Overview:
+FlexyCoin is a full application template of Crypto Currency Wallet. It is a type of currency that’s digital and decentralised and it is included Top 10 Coins in Market, Crypto List with Your custom Filters,Crypto Details Screen with info, Latest News with Your Custom Filters, Search Screen For Find Your Favorite Coins, Favorite Coin List, Details News with info, Light / Dark Mode. It has a very detailed UI design. You can easily customize the screens, allowing for great flexibility and ease of use when it comes to putting the finishing touch on your project.
+If you are interested to develop your own Crypto Currency Wallet app or start learning Flutter from scratch (Zero To Hero), So FlexyCoin is perfect for you. It is a full application developed by Flutter. It’s made a lot easier for all developers. Anyone can run the app.
+
+<br>
+
+## My Socilas:
+INSTAGRAM: https://www.instagram.com/codewithflexz <br>
+YOUTUBE: https://www.youtube.com/c/ProgrammingWithFlexZ  <br>
+GITHUB: https://github.com/AmirBayat0 <br>
+CONTACT ME: https://amirbayat.dev@gmail.com  <br>
+FIND MORE: https://znap.link/CodeWithFlexz <br>
+
+<br>
+
+## What you will get?
+* Flexy Coin App Template
+* Full source code in Flutter
+
+<br>
+
+## App Main Sections:
+* Splash
+* Dashboard 
+* Onboard(x3)
+* Home Screen
+* Crypto Detail Screen
+* Market Screen 
+* Search Screen
+* Favorite Coin Screen
+* News Screen
+* News Detail Screen
+* Developer Profile Screen
+* No Internet Screen
+* Real Time Crypto Price
+* Bottom Navigation
+* Dialogs
+* Shimmer Loading
+* BottomSheet
+* Laight / Dark Mode
+* SnackBars
+* Much More...
+
+<br>
+
+## App Feathears:
+### Top 10 Trending coin / Biggest Gainers / Biggest Losers: 
+  * based on 24 hours most search
+  * Discover the trending coins and know which are the best and worst performing cryptos in the last 24 hours with FlexyCoin app.
+  
+### Crypto List with Your custom Filters : 
+  * Percent Changes or Market Cap | Descending or Ascending | 1H or 24H or 7D | Number of Crypto
+
+### Coin Description page with multiple functionality / Details with stats: 
+  * Name , Symbol, Icon, Live Price, Rank, Market Cap, Volume, Percent Changes, Circulating Supply
+  * Related Coin List, Based on Selected Coin
+  * Related Latest News List Based on The Selected Coin ( All, News, Alexandria, Articles)	
+
+### Coin Descriptions With your Custom Filters:  
+  * Price Changes: Live Price, High 24H, Low 24H
+  * Market Cap: Market Cap, Fully Diluted
+  * Volume: 24H, 7D, 30D
+  * Percent Changes: 1H, 24H, 7D, 30D, 90D
+  
+### News Details With Info:
+  * News Cover Pic
+  * Published Date
+  * Views, Like, DisLike	,Source Name, Type, Source Url
+  * Title, Subtitle, Content
+  * Related News List Based on Selected News
+  * Open Selected coin on Browser for more info
+  * Get the latest breaking news, comment and features from the leaders of Cryptocurrency.
+
+ ### Favorite Coin:
+  * Add and Remove Your Favorite Coin to the Favorite List
+  * keep track of your favorite coins performance using Crypto coins.
+
+### Search Coins:
+  * With FlexyCoin, you can get your hands on the exhaustive list of crypto coins.
+
+### News Screen:
+  * List of Latest News Based on your Custom Coin ( All Coins, Bitcoin, Ethereum, Tether, BNB)
+  
+### Bottom Latest News Animated Text:
+  * Latest News Run on Bottom Of Screen as Animated Text
+
+### Developer Profile Screen:
+   * Developer Profile Pictures
+   * Name, Career
+   * Socials Link (Instagram, Buy Me Coffe, Youtube, Github, Telegram)
+   * Links ( Gmail, Find More)
+      * You Can Open all of this Link from Browsers in app
+
+### No Internet Screen:
+ * a custom screen for while user is Offline
+
+### Light / Dark Mode Support:
+  * Switch your screen from light to dark mode anytime by just onse click.
+  
+<br>
+
+## Technologies:
+* Flutter
+* Dart
+* GetX
+
+<br>
+<br>
 
 ## App Preview - Light Theme:
 <div class="row">
