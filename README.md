@@ -51,7 +51,7 @@
 
 <br>
 
-## App Feathears:
+## App Features:
 ### Top 10 Trending coin / Biggest Gainers / Biggest Losers: 
   * based on 24 hours most search
   * Discover the trending coins and know which are the best and worst performing cryptos in the last 24 hours with FlexyCoin app.
