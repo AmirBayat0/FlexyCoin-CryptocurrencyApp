@@ -11,7 +11,7 @@
 
 <br>
 
-## My Socilas:
+## My Socials:
 * [INSTAGRAM](https://www.instagram.com/codewithflexz)
 * [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
 * [GITHUB](https://github.com/AmirBayat0)
