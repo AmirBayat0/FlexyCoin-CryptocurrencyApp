@@ -8,12 +8,13 @@ If you are interested to develop your own Crypto Currency Wallet app or start le
 <br>
 
 ## My Socilas:
-INSTAGRAM: https://www.instagram.com/codewithflexz <br>
-YOUTUBE: https://www.youtube.com/c/ProgrammingWithFlexZ  <br>
-GITHUB: https://github.com/AmirBayat0 <br>
-CONTACT ME: https://amirbayat.dev@gmail.com  <br>
-FIND MORE: https://znap.link/CodeWithFlexz <br>
+* [INSTAGRAM](https://www.instagram.com/codewithflexz)
+* [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
+* [GITHUB](https://github.com/AmirBayat0)
+* [CONTACT ME](https://amirbayat.dev@gmail.com)
+* [FIND MORE](https://znap.link/CodeWithFlexz)
 
+ 
 <br>
 
 ## What you will get?
