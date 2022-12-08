@@ -103,7 +103,7 @@
  * a custom screen for while user is Offline
 
 ### Light / Dark Mode Support:
-  * Switch your screen from light to dark mode anytime by just onse click.
+  * Switch your screen from light to dark mode anytime with just one click.
   
 <br>
 
