@@ -11,7 +11,7 @@
 
 <br>
 
-## App Demo Visro:
+## App Demo Video:
 * [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
 
 <br>
