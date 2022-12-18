@@ -12,11 +12,12 @@
 <br>
 
 ## App Source Code:
+https://www.buymeacoffee.com/AmirBayat/extras
 
 <br>
 
 ## App Demo Video:
-* [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
+* [YOUTUBE](https://youtu.be/P0rd-GITyUM)
 
 <br>
 
