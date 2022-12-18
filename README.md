@@ -12,7 +12,7 @@
 <br>
 
 ## App Source Code:
-https://www.buymeacoffee.com/AmirBayat/extras
+* [SOURCE CODE](https://www.buymeacoffee.com/AmirBayat/extras)
 
 <br>
 
