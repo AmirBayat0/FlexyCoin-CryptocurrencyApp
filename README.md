@@ -1,5 +1,5 @@
 # FlexyCoin - Cryptocurrency App Using Flutter 
-![Untitled-1](https://user-images.githubusercontent.com/91388754/205259298-9d2c2168-477a-4b7f-a987-7b29562c8455.png)
+![newflex](https://user-images.githubusercontent.com/91388754/229346094-8ab8c47f-a7ae-4240-bcd0-8e3373820d24.jpg)
 
 <img src="https://user-images.githubusercontent.com/91388754/206431484-5fb88ed5-3fed-45b5-8c2c-83cdaad70442.png" width="1000"  />
 <img src="https://user-images.githubusercontent.com/91388754/206431301-dd4bbc7b-9619-47a5-821a-591136b49f5e.png" width="1000" />
