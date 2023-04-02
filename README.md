@@ -8,7 +8,11 @@
 
  
 # Overview:
-FlexyCoin is a full application template of Crypto Currency Wallet. It is a type of currency that’s digital and decentralised and it is included Top 10 Coins in Market, Crypto List with Your custom Filters,Crypto Details Screen with info, Latest News with Your Custom Filters, Search Screen For Find Your Favorite Coins, Favorite Coin List, Details News with info, Light / Dark Mode and so on... . You can easily customize the screens, allowing for great flexibility and ease of use when it comes to putting the finishing touch on your project. If you are interested to develop your own Crypto Currency Wallet app or learning Flutter from scratch (Zero To Hero), So FlexyCoin is perfect for you. It is a full application developed by Flutter. It’s made a lot easier for all developers so Anyone can run the app.
+FlexyCoin is the go-to solution for those seeking a comprehensive Crypto Currency Wallet app template that covers all the bases. With its inclusion of the top 10 coins in the market and customizable filters, you'll be able to tailor your app to your specific needs and preferences. The Crypto Details Screen provides all the necessary information about your chosen currency, while the Latest News feature keeps you up-to-date with what's happening in the crypto world. And with the Search Screen and Favorite Coin List, you'll have all the tools you need to manage your digital assets with ease.
+
+What's more, FlexyCoin is fully customizable to your liking. With the ability to easily tweak and adjust the screens, you'll be able to put your own unique spin on your project. Whether you're a seasoned developer or a beginner looking to learn Flutter from scratch, FlexyCoin is the perfect tool to help you achieve your goals.
+
+So why wait? Start exploring the exciting world of crypto with FlexyCoin today and take the first step towards creating your very own Crypto Currency Wallet app!
 
 <br>
 
