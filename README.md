@@ -1,4 +1,5 @@
 # FlexyCoin - Cryptocurrency App Using Flutter 
+# THE NEW VERSION IS UNDER DEVELOPMENT AND WILL BE PUBLISHED SOON!
 ![newflex](https://user-images.githubusercontent.com/91388754/229346168-db7719ae-d133-4c06-a228-016a009c64a4.jpg)
 
 
