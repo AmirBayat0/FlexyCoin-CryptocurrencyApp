@@ -18,7 +18,7 @@ So why wait? Start exploring the exciting world of crypto with FlexyCoin today a
 <br>
 
 ## App Source Code:
-* [SOURCE CODE](https://www.buymeacoffee.com/amirbayat/e/106750)
+* 👉 Get the Source Code => [Contact me](mailto:amirbayat.dev@gmail.com)
 
 <br>
 
