@@ -18,7 +18,7 @@ So why wait? Start exploring the exciting world of crypto with FlexyCoin today a
 <br>
 
 ## App Source Code:
-* 👉 Get the Source Code => [Contact me](mailto:amirbayat.dev@gmail.com)
+* 👉 Get the Source Code => [FLEXYCOIN](https://ko-fi.com/s/00370895b5)
 
 <br>
 
